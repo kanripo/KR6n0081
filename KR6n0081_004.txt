@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:50.131233
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:43
 #+TITLE: 大乘阿毘達磨集論
 #+PROPERTY: CBETA_ID T31n1605
 #+PROPERTY: ID KR6n0081
@@ -17,6 +17,7 @@
 無著菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
+*** 2
 :PROPERTIES:
 :head: 決擇分中諦品第一之二
 :END:
